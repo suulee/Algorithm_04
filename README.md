@@ -14,7 +14,7 @@
 
 
 4.Images and corresponding probability that predicted Right
-![image](https://user-images.githubusercontent.com/46510651/83637023-e5cf1580-a5e1-11ea-955b-55baadedcb92.png)
+![image](https://user-images.githubusercontent.com/46510651/83637833-2ed39980-a5e3-11ea-94ed-80c423b4becd.png)
 
 
 5.Images and corresponding probability that predicted Wrong
@@ -49,16 +49,21 @@
 # Model3 : 7Layers with 4 Convolution layer
 
 1.Model
+![image](https://user-images.githubusercontent.com/46510651/83637980-66424600-a5e3-11ea-9705-2f972246f9bd.png)
 
 
 2.Training with Training loss
+![image](https://user-images.githubusercontent.com/46510651/83638954-f03ede80-a5e4-11ea-8eab-e2307126253d.png)
 
 
 3.Test Accuracy result
+![image](https://user-images.githubusercontent.com/46510651/83638983-faf97380-a5e4-11ea-93dd-02b355caaeed.png)
 
 
 4.Images and corresponding probability that predicted Right
+![image](https://user-images.githubusercontent.com/46510651/83639016-09478f80-a5e5-11ea-9b16-5eead2bc9910.png)
 
 
 5.Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/46510651/83639062-195f6f00-a5e5-11ea-8bbb-bdb840a3986b.png)
 
